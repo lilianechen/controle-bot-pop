@@ -1,0 +1,13 @@
+# Bot Telegram + Google Sheets
+python-telegram-bot==20.8
+gspread==6.1.2
+google-auth==2.34.0
+python-dotenv==1.0.1
+
+# OCR e processamento de imagens
+pytesseract==0.3.13
+Pillow==10.4.0
+pdf2image==1.17.0
+
+# Outras dependências (podem já estar instaladas)
+requests==2.32.3
